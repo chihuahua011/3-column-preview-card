@@ -10,6 +10,11 @@
   box-sizing:border-box;
 }
 
+#root {
+  height: 100vh;
+  background-color: hsl(0, 0%, 95%);
+}
+
 .wrapper {
   display: flex;
   flex-direction: column;
