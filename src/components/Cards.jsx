@@ -39,8 +39,8 @@ const Cards = () => {
         </Container>
         </div>
         <div className="attribution">
-            Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-            Coded by <a href="#">Marcell Monoki</a>.
+            Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noreferrer">Frontend Mentor</a>. 
+            Coded by <a href="https://www.frontendmentor.io/profile/chihuahua011">Marcell Monoki</a>.
         </div>
     </div>
   );
